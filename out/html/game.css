@@ -1,16 +1,16 @@
 body {
-  --bg-color: #f3f3e3;
-  --border-color: #000;
-  --content-bg-color: #f3f3f3;
+  --bg-color: #fcfcdd;
+  --border-color: #2352010;
+  --content-bg-color: #f3f3dd;
   --text-color: #431;
   --link-color: #900;
   --link-hover-color: rgba(0, 0, 0, 0.05);
   --unavailable-bg-color: rgba(0, 0, 0, 0.1);
-  --unavailable-color: #999;
-  --tab-bg-color: #dedede;
-  --tab-color: #ddd;
-  --tab-hover-color: #ececec;
-  --card-border-color: #ccc; 
+  --unavailable-color: #949080;
+  --tab-bg-color: #dedebb;
+  --tab-color: #ddddcc;
+  --tab-hover-color: #ececbb;
+  --card-border-color: #ccccaa; 
   --card-bg-color: #ddd; 
   font-family: "Minion Pro", Georgia, serif;
   background-color: var(--bg-color);
